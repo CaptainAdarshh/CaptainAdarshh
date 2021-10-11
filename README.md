@@ -31,6 +31,7 @@ I am an aspiring software developer, currently I do back-end web development usi
 ## Contact me here
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CaptainAdarshh) 
        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/captainadarshh/) 
+        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](mailto:adarsh2001vg@gmail.com) 
               
 
 
